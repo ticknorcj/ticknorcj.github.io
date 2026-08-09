@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemical Engineering, University of Cincinnati, 2027 (expected)
+* B.S. in Chemical Engineering, The Ohio State University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug. 2022 - Present: Graduate Research Assistant
+  * Priye Lab | University of Cincinnati
+  <!-- * Duties includes: Updates and improvements to template -->
+  * Supervisor: Dr. Aashish Priye
+ 
+* Jan. 2024 - Present: Graduate Research Assistant
+  * P&G Digital Accelerator | University of Cincinnati / Procter & Gamble
+  <!-- * Duties includes: Updates and improvements to template -->
+  * Supervisors: David Eike, Joanna Jaworska
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar. 2021 – July 2022: Research and Development Technician
+  * Nagase ChemteX America
+  <!-- * Duties included: Merging pull requests -->
+  * Supervisor: Joel Provence
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2020 – Aug. 2020: Quality Intern
+  * Hohman Plating
+  <!-- * Duties included: Tagging issues -->
+  * Supervisor: Nicholas Schumacher
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming & Data Tools
+  * Python, MATLAB, C++, Mathematica, JMP
+* Simulation & Process Modeling
+  * COMSOL, ChemCAD, COSMOtherm, gPROMS FormulatedProducts
+* CAD
+  * Fusion360, SolidWorks, FreeCAD, KiCAD
+* Electronics / Fabrication / Prototyping
+  * Arduino/microcontrollers, CNC machining, 3D printing, laser cutting,
+soldering / electronics assembly
 
 Publications
 ======
