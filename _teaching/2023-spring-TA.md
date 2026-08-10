@@ -10,6 +10,7 @@ location: "Cincinnati, OH"
 
 Demonstrated pilot-scale unit operations to undergraduate students using key concepts from curriculum to enable student-led experiments on subsequent lab sessions
 
+<!--
 Heading 1
 ======
 
@@ -18,3 +19,4 @@ Heading 2
 
 Heading 3
 ======
+-->
