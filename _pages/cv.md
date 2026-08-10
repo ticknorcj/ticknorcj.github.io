@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my full CV](/files/CTicknor_CV.pdf)
+
 Education
 ======
 * Ph.D in Chemical Engineering, University of Cincinnati, 2027 (expected)
