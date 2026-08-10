@@ -10,6 +10,7 @@ location: "Cincinnati, OH"
 
 Tutored math and science in small-group format weekly
 
+<!--
 Heading 1
 ======
 
@@ -18,3 +19,4 @@ Heading 2
 
 Heading 3
 ======
+-->
